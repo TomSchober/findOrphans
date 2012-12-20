@@ -1,0 +1,1 @@
+for filePath in $(<UnusedClassFiles) ; do rm $filePath ; done
